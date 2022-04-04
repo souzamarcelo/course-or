@@ -1,2 +1,15 @@
-# course-or
-Repositório para a disciplina de Métodos Quantitativos (Pesquisa Operacional).
+# Métodos Quantitativos
+
+Este é o repositório da disciplina de *Métodos Quantitativos* do curso de [Bacharelado em Engenharia de Software](https://www.udesc.br/ceavi/engenhariadesoftware) da [Universidade do Estado de Santa Catarina](https://www.udesc.br/ceavi). Esta obra está disponível sob uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional</a>.
+
+## Conteúdo
+
+### Materiais
+
++ [Fundamentos](./1-materiais/1-fundamentos.pdf)
++ [Modelagem Matemática](./1-materiais/2-modelagem.pdf)
++ [Método Gráfico](./1-materiais/3-metodo-grafico.pdf)
+
+### Projetos
+
+### Exercícios
