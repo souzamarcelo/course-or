@@ -13,3 +13,6 @@ Este é o repositório da disciplina de *Métodos Quantitativos* do curso de [Ba
 + [Método Gráfico](./1-materiais/3-metodo-grafico.pdf)
 
 ### 2. Exercícios
+
++ [Lista de exercícios](./2-exercicios/lista-exercicios.pdf)
++ Solução dos exercícios (a ser publicada)
