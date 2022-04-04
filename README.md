@@ -6,12 +6,10 @@ Este é o repositório da disciplina de *Métodos Quantitativos* do curso de [Ba
 
 ## Conteúdo
 
-### Materiais
+### 1. Materiais
 
 + [Fundamentos](./1-materiais/1-fundamentos.pdf)
 + [Modelagem Matemática](./1-materiais/2-modelagem.pdf)
 + [Método Gráfico](./1-materiais/3-metodo-grafico.pdf)
 
-### Projetos
-
-### Exercícios
+### 2. Exercícios
