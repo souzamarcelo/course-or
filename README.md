@@ -32,6 +32,6 @@ Marcelo de Souza (2022), Notas de Aula: Métodos Quantitativos. Online: https://
     author =       {Marcelo de Souza}, 
     howPublished = {\url{https://github.com/souzamarcelo/course-or}}, 
     year =         {2022},
-    note =         {Creative Commons BY-NC-ND 4.0.}
+    note =         {Creative Commons BY-NC-ND 4.0}
 }
 ```
