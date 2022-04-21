@@ -16,3 +16,22 @@ Este é o repositório da disciplina de *Métodos Quantitativos* do curso de [Ba
 
 + [Lista de exercícios](./2-exercicios/lista-exercicios.pdf)
 + Solução dos exercícios (a ser publicada)
+
+
+***
+
+## Citação
+
+Aqui estão instruções de citação, caso você utilize esse material de alguma forma.
+
+Marcelo de Souza (2022), Notas de Aula: Métodos Quantitativos. Online: https://github.com/souzamarcelo/course-or. Creative Commons BY-NC-ND 4.0.
+
+```bibtex
+@Misc{Souza2018lnds,
+    title =        {Notas de Aula: Métodos Quantitativos},
+    author =       {Marcelo de Souza}, 
+    howPublished = {\url{https://github.com/souzamarcelo/course-or}}, 
+    year =         {2022},
+    note =         {Creative Commons BY-NC-ND 4.0.}
+}
+```
