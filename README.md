@@ -21,6 +21,10 @@ Este é o repositório da disciplina de *Métodos Quantitativos* do curso de [Ba
 
 ### 3. Implementação com Pyomo
 
+| Descrição | Visualizar | Executar |
+|-----------|------------|----------|
+| Introdução | [![View In NbViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/souzamarcelo/course-or/blob/main/3-pyomo/0-intro.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/souzamarcelo/course-or/blob/main/3-pyomo/0-intro.ipynb) |
+
 ***
 
 ## Citação
