@@ -11,12 +11,15 @@ Este é o repositório da disciplina de *Métodos Quantitativos* do curso de [Ba
 + [Fundamentos](./1-materiais/1-fundamentos.pdf)
 + [Modelagem Matemática](./1-materiais/2-modelagem.pdf)
 + [Método Gráfico](./1-materiais/3-metodo-grafico.pdf)
++ Método Simplex
+  + [Forma padrão, conceitos básicos e algoritmo](./1-materiais/4-metodo-simplex.pdf)
 
 ### 2. Exercícios
 
 + [Lista de exercícios](./2-exercicios/lista-exercicios.pdf)
 + Solução dos exercícios (a ser publicada)
 
+### 3. Implementação com Pyomo
 
 ***
 
