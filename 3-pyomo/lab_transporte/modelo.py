@@ -54,8 +54,13 @@ def resolve():
     # Solução
     solver = SolverFactory('glpk')
     #solver.solve(model).write()
-    solver.solve(model)
-    mostra_solucao(model)    
+    results = solver.solve(model)
 
+    if results.solver.termination_condition == 'optimal':
+        mostra_solucao(model)    
+    else:
+        #instancia.mostra()
+        print('Solução ótima não encontrada!')
+    
 
 resolve()
