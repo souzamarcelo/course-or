@@ -47,7 +47,7 @@ def solve():
 #print(solve())
 
 from glob import glob
-for instance in glob('./instances-knapsack/low-dimensional/*'):
+for instance in glob('./instances_knapsack/low-dimensional/*'):
     read_instance(instance)
     print(instance[instance.rindex('/') + 1:] + ': ', end = '')
     print(solve())
