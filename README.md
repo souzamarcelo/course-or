@@ -11,8 +11,15 @@ Este é o repositório da disciplina de *Métodos Quantitativos* do curso de [Ba
 + [Fundamentos](./1-materiais/1-fundamentos.pdf)
 + [Modelagem Matemática](./1-materiais/2-modelagem.pdf)
 + [Método Gráfico](./1-materiais/3-metodo-grafico.pdf)
-+ Método Simplex
++ Método simplex:
   + [Forma padrão, conceitos básicos e algoritmo](./1-materiais/4-metodo-simplex.pdf)
+  + [Solução inicial artificial](./1-materiais/5-simplex-solucao-inicial-artificial.pdf)
+  + [Casos especiais](./1-materiais/6-simplex-casos-especiais.pdf)
++ [Análise de sensibilidade](./1-materiais/7-analise-sensibilidade.pdf)
++ [Programação linear inteira](./1-materiais/8-programacao-inteira.pdf)
++ Métodos heurísticos:
+  + [Construção](./1-materiais/9-metodos-heuristicos-construcao.pdf)
+  + Buscas locais
 
 ### 2. Exercícios
 
