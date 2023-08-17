@@ -30,20 +30,10 @@ Este é o repositório da disciplina de *Métodos Quantitativos* do curso de [Ba
 
 | Descrição | Notebook | Outros |
 |-----------|------------|----------|
-| Introdução | [visualizar](https://nbviewer.org/github/souzamarcelo/course-or/blob/main/3-pyomo/1-intro.ipynb), [executar](https://colab.research.google.com/github/souzamarcelo/course-or/blob/main/3-pyomo/1-intro.ipynb) | |
-| Reddy Mikks | [visualizar](https://nbviewer.org/github/souzamarcelo/course-or/blob/main/3-pyomo/2-reddy-mikks.ipynb), [executar](https://colab.research.google.com/github/souzamarcelo/course-or/blob/main/3-pyomo/2-reddy-mikks.ipynb) | |
-| O investidor | [visualizar](https://nbviewer.org/github/souzamarcelo/course-or/blob/main/3-pyomo/3-investidor.ipynb), [executar](https://colab.research.google.com/github/souzamarcelo/course-or/blob/main/3-pyomo/3-investidor.ipynb) | |
-| Problema da mistura | [visualizar](https://nbviewer.org/github/souzamarcelo/course-or/blob/main/3-pyomo/4-mistura.ipynb), [executar](https://colab.research.google.com/github/souzamarcelo/course-or/blob/main/3-pyomo/4-mistura.ipynb) | |
-
-
-
-| Descrição | Visualizar | Executar |
-|-----------|------------|----------|
-| Introdução | [![View In NbViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/souzamarcelo/course-or/blob/main/3-pyomo/1-intro.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/souzamarcelo/course-or/blob/main/3-pyomo/1-intro.ipynb) |
-| Reddy Mikks | [![View In NbViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/souzamarcelo/course-or/blob/main/3-pyomo/2-reddy-mikks.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/souzamarcelo/course-or/blob/main/3-pyomo/2-reddy-mikks.ipynb) |
-| O investidor | [![View In NbViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/souzamarcelo/course-or/blob/main/3-pyomo/3-investidor.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/souzamarcelo/course-or/blob/main/3-pyomo/3-investidor.ipynb) |
-| Problema da mistura | [![View In NbViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/souzamarcelo/course-or/blob/main/3-pyomo/4-mistura.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/souzamarcelo/course-or/blob/main/3-pyomo/4-mistura.ipynb) |
-
+| Introdução | [visualizar](https://nbviewer.org/github/souzamarcelo/course-or/blob/main/3-src/1-intro.ipynb), [executar](https://colab.research.google.com/github/souzamarcelo/course-or/blob/main/3-src/1-intro.ipynb) | |
+| Reddy Mikks | [visualizar](https://nbviewer.org/github/souzamarcelo/course-or/blob/main/3-src/2-reddy-mikks.ipynb), [executar](https://colab.research.google.com/github/souzamarcelo/course-or/blob/main/3-src/2-reddy-mikks.ipynb) | |
+| O investidor | [visualizar](https://nbviewer.org/github/souzamarcelo/course-or/blob/main/3-src/3-investidor.ipynb), [executar](https://colab.research.google.com/github/souzamarcelo/course-or/blob/main/3-src/3-investidor.ipynb) | |
+| Problema da mistura | [visualizar](https://nbviewer.org/github/souzamarcelo/course-or/blob/main/3-src/4-mistura.ipynb), [executar](https://colab.research.google.com/github/souzamarcelo/course-or/blob/main/3-src/4-mistura.ipynb) | |
 
 ***
 
