@@ -7,6 +7,7 @@ semente = int(sys.argv[1])
 def mostra_solucao(model):
     print()
     print(f'Instância (semente): {semente}')
+    
     print('    ', end = '')
     for j in range(instancia.n):
         print(f' {j+1:5} ', end = '')

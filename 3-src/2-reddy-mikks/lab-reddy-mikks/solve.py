@@ -1,5 +1,5 @@
 import sys
-import reddy_mikks as model
+import model
 
 def extract_values(line, data):
     key = line.split(': ')[0]
