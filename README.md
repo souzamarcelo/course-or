@@ -9,8 +9,8 @@ Este é o repositório da disciplina de *Métodos Quantitativos* do curso de [Ba
 ### 1. Materiais
 
 + [Fundamentos](./1-materiais/1-fundamentos.pdf)
-+ [Modelagem Matemática](./1-materiais/2-modelagem.pdf)
-+ [Método Gráfico](./1-materiais/3-metodo-grafico.pdf)
++ [Modelagem matemática](./1-materiais/2-modelagem.pdf)
++ [Método gráfico](./1-materiais/3-metodo-grafico.pdf)
 + Método simplex:
   + [Forma padrão, conceitos básicos e algoritmo](./1-materiais/4-metodo-simplex.pdf)
   + [Solução inicial artificial](./1-materiais/5-simplex-solucao-inicial-artificial.pdf)
