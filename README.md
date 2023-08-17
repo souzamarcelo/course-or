@@ -26,7 +26,7 @@ Este é o repositório da disciplina de *Métodos Quantitativos* do curso de [Ba
 + [Lista de exercícios](./2-exercicios/lista-exercicios.pdf)
 + [Solução dos exercícios](./2-exercicios/solucao.pdf)
 
-### 3. Implementação com Pyomo
+### 3. Implementação
 
 | Descrição | Visualizar | Executar |
 |-----------|------------|----------|
