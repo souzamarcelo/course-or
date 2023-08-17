@@ -1,4 +1,4 @@
-# Instruções para execução
+# Instruções para preparação do ambiente
 
 ## Software necessário
 + [Python](https://www.python.org/)
