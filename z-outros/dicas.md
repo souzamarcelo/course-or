@@ -7,7 +7,7 @@ Os relatórios devem ser escritos seguindo as práticas e estilo científicos. A
 + Enrolação e detalhes irrelevantes.
   + "_Este é um trabalho da disciplina de Pesquisa Operacional, em que cada equipe deve escolher um problema de otimização_".
 + Omitir detalhes importantes.
-  + funcionamento dos algoritmos, detalhes das instâncias, etc.
+  + Funcionamento dos algoritmos, detalhes das instâncias, etc.
 + Omitir referências bibliográficas.
 + Citações e referências bibliográficas fora de padrão.
 + Omitir conclusões ou apresentar conclusões não sustentadas.
@@ -29,7 +29,7 @@ Os relatórios devem ser escritos seguindo as práticas e estilo científicos. A
 **Outros detalhes:**
 + Referencie elementos pelo seu rótulo.
   + "_A Figura 1 apresenta..._" (correto!).
-  + "_..., conforme apresentado pela Tabela 3 _" (correto!).
+  + "_..., conforme apresentado pela Tabela 3_" (correto!).
   + "_A figura 2 mostra a ideia geral..._" (errado: letra minúscula!).
   + "_A tabela abaixo apresenta os resultados..._" (errado!).
 + Alinhe colunas numéricas à direita e use sempre o mesmo número de casas decimais em todas as linhas.
