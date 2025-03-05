@@ -19,5 +19,14 @@ Para instalar o GLPK no Linux:
 apt-get install glpk-utils
 ```
 
+Para instalar o GLPK no MacOS:
+```bash
+brew install glpk
+```
+
 Para instalar o GLPK no Windows:
+```bash
+choco install glpk
+```
 + https://stackoverflow.com/questions/17513666/installing-glpk-gnu-linear-programming-kit-on-windows
++ https://community.chocolatey.org/packages/glpk#files
