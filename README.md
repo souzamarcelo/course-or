@@ -9,22 +9,24 @@ Este é o repositório da disciplina de *Métodos Quantitativos* do curso de [Ba
 ### 1. Materiais
 
 + [Fundamentos](./1-materiais/1-fundamentos.pdf)
-+ [Modelagem matemática](./1-materiais/2-modelagem.pdf)
-+ [Método gráfico](./1-materiais/3-metodo-grafico.pdf)
-+ Método simplex:
-  + [Forma padrão, conceitos básicos e algoritmo](./1-materiais/4-metodo-simplex.pdf)
-  + [Solução inicial artificial](./1-materiais/5-simplex-solucao-inicial-artificial.pdf)
-  + [Casos especiais](./1-materiais/6-simplex-casos-especiais.pdf)
-+ [Análise de sensibilidade](./1-materiais/7-analise-sensibilidade.pdf)
-+ [Programação linear inteira](./1-materiais/8-programacao-inteira.pdf)
-+ Métodos heurísticos:
-  + [Construção](./1-materiais/9-metodos-heuristicos-construcao.pdf)
-  + Buscas locais
++ Programação linear
+  + [Modelagem matemática](./1-materiais/2-linear-modelagem.pdf)
+  + [Solução gráfica](./1-materiais/3-linear-grafica.pdf)
+  + [Solução analítica](./1-materiais/4-linear-analitica.pdf)
++ Programação inteira:
+  + [Introdução](./1-materiais/5-inteira-introducao.pdf)
+  + [Modelagem matemática](./1-materiais/6-inteira-modelagem.pdf)
+  + [Solução](./1-materiais/7-inteira-solucao.pdf)
++ Otimização heurística
+  + [Introdução](./1-materiais/8-heuristica-introducao.pdf)
+  + [Construção](./1-materiais/9-heuristica-construcao.pdf)
+  + [Buscas locais](./1-materiais/10-heuristica-buscas-locais.pdf)
+  + [Recombinação](./1-materiais/11-heuristica-recombinacao.pdf)
+  + [Projeto e avaliação experimental](./1-materiais/12-heuristica-projeto-avaliacao.pdf)
 
 ### 2. Exercícios
 
-+ [Lista de exercícios](./2-exercicios/lista-exercicios.pdf)
-+ [Solução dos exercícios](./2-exercicios/solucao.pdf)
++ [Lista de exercícios (com solução)](./2-exercicios/lista-exercicios.pdf)
 
 ### 3. Implementação
 
