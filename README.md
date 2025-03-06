@@ -51,7 +51,7 @@ Aqui estão instruções de citação, caso você utilize esse material de algum
 Marcelo de Souza (2022), Métodos Quantitativos. Online: https://github.com/souzamarcelo/course-or. Creative Commons BY-NC-ND 4.0.
 
 ```bibtex
-@Misc{Souza2022lnor,
+@Misc{Souza2022or,
     title =        {Métodos Quantitativos},
     author =       {Marcelo de Souza}, 
     howPublished = {\url{https://github.com/souzamarcelo/course-or}}, 
