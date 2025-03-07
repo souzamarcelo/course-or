@@ -15,14 +15,14 @@ Este é o repositório da disciplina de *Pesquisa Operacional e Otimização* do
   + [Solução analítica](./1-materiais/4-linear-analitica.pdf)
 + Programação inteira:
   + [Introdução](./1-materiais/5-inteira-introducao.pdf)
-  + [Modelagem matemática](./1-materiais/6-inteira-modelagem.pdf)
-  + [Solução](./1-materiais/7-inteira-solucao.pdf)
+  + Modelagem matemática<!--[Modelagem matemática](./1-materiais/6-inteira-modelagem.pdf)-->
+  + Solução<!--[Solução](./1-materiais/7-inteira-solucao.pdf)-->
 + Otimização heurística
-  + [Introdução](./1-materiais/8-heuristica-introducao.pdf)
-  + [Construção](./1-materiais/9-heuristica-construcao.pdf)
-  + [Buscas locais](./1-materiais/10-heuristica-buscas-locais.pdf)
-  + [Recombinação](./1-materiais/11-heuristica-recombinacao.pdf)
-  + [Projeto e avaliação experimental](./1-materiais/12-heuristica-projeto-avaliacao.pdf)
+  + Introdução<!--[Introdução](./1-materiais/8-heuristica-introducao.pdf)-->
+  + Construção<!--[Construção](./1-materiais/9-heuristica-construcao.pdf)-->
+  + Buscas locais<!--[Buscas locais](./1-materiais/10-heuristica-buscas-locais.pdf)-->
+  + Recombinação<!--[Recombinação](./1-materiais/11-heuristica-recombinacao.pdf)-->
+  + Projeto e avaliação experimental<!--[Projeto e avaliação experimental](./1-materiais/12-heuristica-projeto-avaliacao.pdf)-->
 
 ### 2. Exercícios
 
