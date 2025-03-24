@@ -12,7 +12,7 @@ Este é o repositório da disciplina de *Métodos Quantitativos* do curso de [Ba
 + Programação linear
   + [Modelagem matemática](./1-materiais/2-linear-modelagem.pdf)
   + [Solução gráfica](./1-materiais/3-linear-grafica.pdf)
-  + [Solução analítica](./1-materiais/4-linear-analitica.pdf)
+  + ~~Solução analítica~~
 + Programação inteira:
   + [Introdução](./1-materiais/5-inteira-introducao.pdf)
   + Modelagem matemática<!--[Modelagem matemática](./1-materiais/6-inteira-modelagem.pdf)-->
