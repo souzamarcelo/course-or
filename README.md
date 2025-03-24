@@ -48,7 +48,7 @@ Este é o repositório da disciplina de *Métodos Quantitativos* do curso de [Ba
 
 Aqui estão instruções de citação, caso você utilize esse material de alguma forma.
 
-Marcelo de Souza (2022), Métodos Quantitativos. Online: https://github.com/souzamarcelo/course-or. Creative Commons BY-NC-ND 4.0.
+Marcelo de Souza (2025), Pesquisa Operacional e Otimização. Online: https://github.com/souzamarcelo/course-or. Creative Commons BY-NC-ND 4.0.
 
 ```bibtex
 @Misc{Souza2022or,
