@@ -32,11 +32,10 @@ Este é o repositório da disciplina de *Métodos Quantitativos* do curso de [Ba
 
 | Descrição | Notebook | Outros |
 |-----------|------------|----------|
-| Introdução | [visualizar](https://nbviewer.org/github/souzamarcelo/course-or/blob/main/3-src/1-intro/intro.ipynb), [executar](https://colab.research.google.com/github/souzamarcelo/course-or/blob/main/3-src/1-intro/intro.ipynb) | [python](./3-src/1-intro/intro.py) |
 | Reddy Mikks | [visualizar](https://nbviewer.org/github/souzamarcelo/course-or/blob/main/3-src/2-reddy-mikks/reddy-mikks.ipynb), [executar](https://colab.research.google.com/github/souzamarcelo/course-or/blob/main/3-src/2-reddy-mikks/reddy-mikks.ipynb) | [lab](./3-src/2-reddy-mikks/lab-reddy-mikks) |
-| Problema do investimento | [visualizar](https://nbviewer.org/github/souzamarcelo/course-or/blob/main/3-src/3-investidor/investidor.ipynb), [executar](https://colab.research.google.com/github/souzamarcelo/course-or/blob/main/3-src/3-investidor/investidor.ipynb) | [lab](./3-src/3-investidor/lab-investidor) |
-| Problema da mistura | [visualizar](https://nbviewer.org/github/souzamarcelo/course-or/blob/main/3-src/4-mistura/mistura.ipynb), [executar](https://colab.research.google.com/github/souzamarcelo/course-or/blob/main/3-src/4-mistura/mistura.ipynb) | |
-| Problema do transporte | [visualizar](https://nbviewer.org/github/souzamarcelo/course-or/blob/main/3-src/5-transporte/transporte.ipynb), [executar](https://colab.research.google.com/github/souzamarcelo/course-or/blob/main/3-src/5-transporte/transporte.ipynb) | [lab](./3-src/5-transporte/lab-transporte) |
+| Investidor | [visualizar](https://nbviewer.org/github/souzamarcelo/course-or/blob/main/3-src/3-investidor/investidor.ipynb), [executar](https://colab.research.google.com/github/souzamarcelo/course-or/blob/main/3-src/3-investidor/investidor.ipynb) | [lab](./3-src/3-investidor/lab-investidor) |
+<!--| Problema da mistura | [visualizar](https://nbviewer.org/github/souzamarcelo/course-or/blob/main/3-src/4-mistura/mistura.ipynb), [executar](https://colab.research.google.com/github/souzamarcelo/course-or/blob/main/3-src/4-mistura/mistura.ipynb) | |
+| Problema do transporte | [visualizar](https://nbviewer.org/github/souzamarcelo/course-or/blob/main/3-src/5-transporte/transporte.ipynb), [executar](https://colab.research.google.com/github/souzamarcelo/course-or/blob/main/3-src/5-transporte/transporte.ipynb) | [lab](./3-src/5-transporte/lab-transporte) |-->
 | Problema da mochila | [visualizar](https://nbviewer.org/github/souzamarcelo/course-or/blob/main/3-src/6-knapsack/knapsack.ipynb), [executar](https://colab.research.google.com/github/souzamarcelo/course-or/blob/main/3-src/6-knapsack/knapsack.ipynb) | [lab](./3-src/6-knapsack/lab-knapsack) |
 | Problema da localização de instalações | | [python](./3-src/7-facility-location/model.py) |
 | Problema do caminho mínimo |  | [python](./3-src/8-shortest-path/model.py) |
