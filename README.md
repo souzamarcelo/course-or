@@ -4,9 +4,9 @@
 
 Este é o repositório da disciplina de *Métodos Quantitativos* do curso de [Bacharelado em Engenharia de Software](https://www.udesc.br/ceavi/engenhariadesoftware) da [Universidade do Estado de Santa Catarina](https://www.udesc.br/ceavi). Esta obra está disponível sob uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional</a>.
 
-## Conteúdo
+<br/>
 
-### 1. Materiais
+## 1. Materiais
 
 + [Fundamentos](./1-materiais/1-fundamentos.pdf)
 + Programação linear
@@ -24,11 +24,15 @@ Este é o repositório da disciplina de *Métodos Quantitativos* do curso de [Ba
   + Recombinação<!--[Recombinação](./1-materiais/11-heuristica-recombinacao.pdf)-->
   + Projeto e avaliação experimental<!--[Projeto e avaliação experimental](./1-materiais/12-heuristica-projeto-avaliacao.pdf)-->
 
-### 2. Exercícios
+<br/>
+
+## 2. Exercícios
 
 + [Lista de exercícios (com solução)](./2-exercicios/lista-exercicios.pdf)
 
-### 3. Implementação
+<br/>
+
+## 3. Implementação
 
 **Programação linear**
 
@@ -49,7 +53,7 @@ Este é o repositório da disciplina de *Métodos Quantitativos* do curso de [Ba
 | Localização de instalações | [lab](./3-src/6-facility-location/facility-location.py) |
 | Caminhos mínimos | [lab](./3-src/7-shortest-path) |
 
-***
+<br/>
 
 ## Citação
 
