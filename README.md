@@ -39,6 +39,8 @@ Este é o repositório da disciplina de *Métodos Quantitativos* do curso de [Ba
 | Investidor | [visualizar](https://nbviewer.org/github/souzamarcelo/course-or/blob/main/3-src/3-investidor/investidor.ipynb), [executar](https://colab.research.google.com/github/souzamarcelo/course-or/blob/main/3-src/3-investidor/investidor.ipynb) |
 | Investidor genérico| [visualizar](https://nbviewer.org/github/souzamarcelo/course-or/blob/main/3-src/4-investidor-generico/investidor-generico.ipynb), [executar](https://colab.research.google.com/github/souzamarcelo/course-or/blob/main/3-src/4-investidor-generico/investidor-generico.ipynb), [lab](./3-src/4-investidor-generico/lab-investidor) |
 
+<br/>
+
 **Programação inteira**
 
 | Descrição | Conteúdo |
