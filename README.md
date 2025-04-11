@@ -15,7 +15,7 @@ Este é o repositório da disciplina de *Métodos Quantitativos* do curso de [Ba
   + ~~Solução analítica~~
 + Programação inteira:
   + [Introdução](./1-materiais/5-inteira-introducao.pdf)
-  + Modelagem matemática<!--[Modelagem matemática](./1-materiais/6-inteira-modelagem.pdf)-->
+  + [Modelagem matemática](./1-materiais/6-inteira-modelagem.pdf)
   + ~~Solução~~
 + Otimização heurística
   + Introdução<!--[Introdução](./1-materiais/8-heuristica-introducao.pdf)-->
