@@ -47,7 +47,7 @@ Este é o repositório da disciplina de *Métodos Quantitativos* do curso de [Ba
 
 | Descrição | Conteúdo |
 |-----------|------------|
-| Mochila | [visualizar](https://nbviewer.org/github/souzamarcelo/course-or/blob/main/3-src/5-knapsack/knapsack.ipynb), [executar](https://colab.research.google.com/github/souzamarcelo/course-or/blob/main/3-src/5-knapsack/knapsack.ipynb), [lab](./3-src/5-knapsack/lab-knapsack) |
+| Problema da mochila | [visualizar](https://nbviewer.org/github/souzamarcelo/course-or/blob/main/3-src/5-knapsack/knapsack.ipynb), [executar](https://colab.research.google.com/github/souzamarcelo/course-or/blob/main/3-src/5-knapsack/knapsack.ipynb), [lab](./3-src/5-knapsack/lab-knapsack) |
 | Localização de instalações | [lab](./3-src/6-facility-location/facility-location.py) |
 | Caminhos mínimos | [lab](./3-src/7-shortest-path) |
 
