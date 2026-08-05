@@ -9,14 +9,8 @@ Este é o repositório da disciplina de *Pesquisa Operacional e Otimização* do
 ## 1. Materiais
 
 + [Fundamentos](./1-materiais/1-fundamentos.pdf)
-+ Programação linear
-  + [Modelagem matemática](./1-materiais/2-linear-modelagem.pdf)
-  + [Solução gráfica](./1-materiais/3-linear-grafica.pdf)
-  + ~~Solução analítica~~
-+ Programação inteira:
-  + [Introdução](./1-materiais/5-inteira-introducao.pdf)
-  + [Modelagem matemática](./1-materiais/6-inteira-modelagem.pdf)
-  + ~~Solução~~
++ [Programação linear](./1-materiais/2-programacao-linear.pdf)
++ [Programação inteira](./1-materiais/3-programacao-inteira.pdf)
 + Otimização heurística
   + Introdução<!--[Introdução](./1-materiais/8-heuristica-introducao.pdf)-->
   + Construção<!--[Construção](./1-materiais/9-heuristica-construcao.pdf)-->
