@@ -11,12 +11,7 @@ Este é o repositório da disciplina de *Pesquisa Operacional e Otimização* do
 + [Fundamentos](./1-materiais/1-fundamentos.pdf)
 + [Programação linear](./1-materiais/2-programacao-linear.pdf)
 + [Programação inteira](./1-materiais/3-programacao-inteira.pdf)
-+ Otimização heurística
-  + Introdução<!--[Introdução](./1-materiais/8-heuristica-introducao.pdf)-->
-  + Construção<!--[Construção](./1-materiais/9-heuristica-construcao.pdf)-->
-  + Buscas locais<!--[Buscas locais](./1-materiais/10-heuristica-buscas-locais.pdf)-->
-  + Recombinação<!--[Recombinação](./1-materiais/11-heuristica-recombinacao.pdf)-->
-  + Projeto e avaliação experimental<!--[Projeto e avaliação experimental](./1-materiais/12-heuristica-projeto-avaliacao.pdf)-->
++ [Otimização heurística](./1-materiais/4-otimizacao-heuristica.pdf)
 
 <br/>
 
